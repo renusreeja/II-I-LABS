@@ -1,2 +1,2 @@
 
-Write a program to sort a given list of integers using Insertion Sort.
+Write a program to sort a given list of integers using Insertion Sort
