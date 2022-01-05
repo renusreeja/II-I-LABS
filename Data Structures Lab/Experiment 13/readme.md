@@ -1,2 +1,2 @@
 
-Write a program to implement Queue using Array.
+Write a program to implement Queue using Array
