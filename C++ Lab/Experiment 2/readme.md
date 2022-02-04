@@ -1,6 +1,5 @@
 # Experiment 2
-## Aim of Experiment -
-Given that an EMPLOYEE class contains following members: data members: Employee number, Employee name, Basic, DA, IT, Net Salary and print data members.
+## Aim : Given that an EMPLOYEE class contains following members: data members: Employee number, Employee name, Basic, DA, IT, Net Salary and print data members.
 ### Step by Step procedure for the Experiment
 Step 1 - Include the required header files (iostream.h).
 
