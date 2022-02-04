@@ -3,20 +3,16 @@
 ### Step by Step Procedure for the Experiment
 Step 1: Include the required header files (iostream).
 
-Step 2: Declare the base class base.
+Step 2: Declare the base class A with data member x.
 
-Step 3: Declare and define the virtual function show().
+Step 3: Declare and define the virtual function display().
 
-Step 4: Declare and define the function display().
+Step 5: Create the derived class B from the base class.
 
-Step 5: Create the derived class from the base class.
+Step 6: Declare and define the functions display().
 
-Step 6: Declare and define the functions display() and show().
+Step 7: In the main function, Create the base class pointer variable.
 
-Step 7: Create the base class object and pointer variable.
-
-Step 8: Call the functions display() and show() using the base class object and pointer.
-
-Step 9: Create the derived class object and call the functions display() and show() using the derived class object and pointer.
+Step 9: Create the derived class object and call the function display() using the derived class object and pointer.
 
 Step 10: return 0 and exit the program.
