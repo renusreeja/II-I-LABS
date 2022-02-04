@@ -13,6 +13,6 @@ Step 6: Declare and define the functions display().
 
 Step 7: In the main function, Create the base class pointer variable.
 
-Step 9: Create the derived class object and call the function display() using the derived class object and pointer.
+Step 8: Create the derived class object and call the function display() using the derived class object and pointer.
 
-Step 10: return 0 and exit the program.
+Step 9: return 0 and exit the program.
