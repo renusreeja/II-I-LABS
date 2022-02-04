@@ -1,6 +1,6 @@
-#Experiment 14(b)
-##Aim : Write a C++ on file streams.
-###Step by Step procedure for the Experiment
+# Experiment 14(b)
+## Aim : Write a C++ on file streams.
+### Step by Step procedure for the Experiment
 Step 1 - Include the required header files (iostream and fstream).
 
 Step 2 - Create a main() method.
