@@ -13,10 +13,8 @@ Step 5 - Close the opened file.
 
 Step 6 - Open the file in read mode.
 
-Step 7 - Write the data on the screen.
+Step 7 - Read the data from the file and display it.
 
-Step 8 - Again read the data from the file and display it.
+Step 8 - Close the opened file.
 
-Step 9 - Close the opened file.
-
-Step 10 - return 0 to exit form the program execution.
+Step 9 - return 0 to exit form the program execution.
