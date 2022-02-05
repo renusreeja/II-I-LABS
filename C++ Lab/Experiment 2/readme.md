@@ -1,7 +1,7 @@
 # Experiment 2
 ## Aim : Given that an EMPLOYEE class contains following members: data members: Employee number, Employee name, Basic, DA, IT, Net Salary and print data members.
 ### Step by Step procedure for the Experiment
-Step 1 - Include the required header files (iostream.h).
+Step 1 - Include the required header files (iostream.h)
 
 Step 2 - Create a class (Employee) with the following members as public members: e_no, e_name, basic, da, it, net_sal as data members and read(), cal_net_sal(), display() as member functions.
 
