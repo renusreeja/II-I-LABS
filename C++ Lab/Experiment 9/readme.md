@@ -3,18 +3,14 @@
 Step by Step Procedure of the experiment
 Step 1 - Include the required header files (iostream and string.h).
 
-Step 2 - Declared within a person class private int age and string name constructor and a print function.
+Step 2 - Create a class (Numbers) with x, y as data members and display() as member function.
 
-Step 3 - Initialize a variable ‘age’ to 0 and 'name' to none within the constructor.
+Step 3 - Initialize variables ‘x’ and 'y' using parameterized constructor.
 
-Step 4 - Implicitely call parameterized constructor and a copy constructor.
+Step 4 - Declare a destructor within the class.
 
-Step 5 - Display ‘age’ value and 'name' with the help of print function.
+Step 5 - Define the function display() outside the class using scope resolution operator.
 
-Step 6 - Declare a destructor function within a person class.
+Step 6 - In the main() function, call the constructor and display() function.
 
-Step 7 - Within the main function create a instances of the person class to ‘p0’ , 'p1' , 'p2'.
-
-Step 8 - Call a method of print function using ‘p0’ , 'p1' and 'p2' with their respective syntax.
-
-Step 9 - return 0 to exit from the program execution.
+Step 7 - return 0 to exit from the program execution.
