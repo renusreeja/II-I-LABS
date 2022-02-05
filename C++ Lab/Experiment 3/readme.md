@@ -3,16 +3,14 @@
 ### Step by Step Procedure for the Experiment
 Step 1 - Include the required header files (iostream).
 
-Step 2 - Create a class Employee with the following members. name, basic, DA, IT, and net_salary as data memebrs get_details() and print_details() as member functions.
+Step 2 - Create a class Employee with the following members. e_id, name, bs, da, it, net_sal, gross as data memebrs and read(), cal_da(), cal_gross(), cal_it(), cal_netsaal() as member functions.
 
 Step 3 - Implement all the member functions with their respective code.
 
 Step 4 - Create a main() method.
 
-Step 5 - Create an array of class object with a specific size and 'i' as integer.
+Step 5 - Create an array of class object e with a specific size and 'i' as integer.
 
-Step 6 - Call the get_details() method through the array of class object from 0 to specific size.
+Step 6 - Call all the functions through the array of class object from 0 to specific size.
 
-Step 7 - Call the print_details() method through the array of class object from 0 to specific size.
-
-Step 8 - returnn 0 to exit from the program execution.
+Step 7 - returnn 0 to exit from the program execution.
